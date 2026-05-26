@@ -1,0 +1,6 @@
+{
+  "name": "Code Studio 2.0",
+  "description": "Trình soạn thảo mã nguồn di động đẳng cấp Monaco với tích hợp GitHub & Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
